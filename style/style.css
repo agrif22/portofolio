@@ -13,3 +13,8 @@ section {
 footer {
 	padding: 20px 0px;
 }
+
+#contacts ul li {
+	list-style: none;
+	text-indent: -1em;
+}
